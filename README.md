@@ -1,2 +1,4 @@
 # Prodigy_DS_3
-Utilized a Decision Tree classifier to forecast the likelihood of a customer subscribing to a fixed deposit scheme within a banking dataset.
+I successfully completed my third task as a Data Science Intern at Prodigy Infotech, where the objective was to predict customer subscription to a bank's fixed deposit scheme using a Decision Tree classifier. The dataset, sourced from the UCI ML repository, presented initial challenges as it was a raw, semicolon-separated file. I addressed this by converting it to a CSV format, manipulating it in Excel to structure it appropriately, including column selection and text addition.
+
+Subsequently, I engaged in comprehensive data preprocessing for effective data science workflows. Employing tools such as info and describe for dataset insight, I handled categorical variables by encoding them. Training the model on the prepared training set using a Decision Tree classifier yielded promising results, achieving an accuracy of 86%. I express my gratitude to Prodigy Intern for providing me with this valuable learning opportunity.
